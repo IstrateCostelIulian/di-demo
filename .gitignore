@@ -6,6 +6,7 @@
 
 #Target folder
 .target
+.target/
 
 mvnw.*
 mvnw
