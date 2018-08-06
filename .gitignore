@@ -3,15 +3,12 @@
 
 #Maven embedded
 .mvn
-
-#Target folder
-.target
-.target/classes
-
 mvnw.*
 mvnw
 
-
+#Target folder
+.target
+target/classes/application.properties
 
 # Log file
 *.log
