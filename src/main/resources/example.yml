@@ -1,0 +1,35 @@
+#this is a comment
+
+name : John
+names :
+    - John
+    - Paul
+    - Ringo
+
+pound_sign : "#"
+
+book:
+    author : Joe Black
+    publisher : ramdom
+
+truth : yes
+
+another_truth :  True
+
+more_true : true
+
+false : no #No, false , FALSE
+
+string_val : "This is it's quate"
+
+colon_string : "my courses : one two"
+
+include_new_lines : |
+   asdf aaaa
+   asdf bbbb
+   asdb cccc
+
+ignore_new_line : >
+   this is
+   just one long
+   string
