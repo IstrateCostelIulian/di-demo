@@ -13,7 +13,7 @@ import org.springframework.context.support.PropertySourcesPlaceholderConfigurer;
 //@PropertySource("classpath:datasource.properties")
 @PropertySources({
         @PropertySource("classpath:datasource.properties"),
-        @PropertySource("classpath:jms.properties")
+        //@PropertySource("classpath:jms.properties")
 })
 public class PropertyConfig {
 
